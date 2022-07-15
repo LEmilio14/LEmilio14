@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LEmilio14. I am a recent Computer Science Graduate.
+- 👋 Hi, I’m @LEmilio14. I am a System Engineer at Supermicro.
 - 👀 I’m interested in mobile development, website development, and Software development.
 - 🌱 I’m currently learning Javascript and Python.
 - 📫 How to reach me emilioguerre98@gmail.com
